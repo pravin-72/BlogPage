@@ -4,6 +4,10 @@ Welcome to my impressive Blogpage project, a demonstration of my expertise in we
 
 This project was completed as part of the FreeCodeCamp certification in Responsive Web Design, showcasing my skills and commitment to building captivating web pages using HTML and CSS.
 
+## Live Demo
+
+Before diving into the code, you can check out the live version of RegistrationForm here: [Calculator Live Demo](https://calciusage.netlify.app/)
+
 ## Key Features:
 
 **1**. Responsive Design: The blog page gracefully adapts to various screen sizes, from mobile devices to large desktops, ensuring an optimal user experience.
